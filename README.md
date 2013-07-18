@@ -5,8 +5,10 @@ provider to Vagrant, allowing Vagrant to control and provision KVM/QEMU VM.
 
 **NOTE:** This plugin requires Vagrant 1.1+
 
-**NOTE:** This plugin requires QEMU 1.2+, it has only been tested on Fedora 18
-and Debian Wheezy at the moment.
+**NOTE:** This plugin requires QEMU 1.1+, it has only been tested on:
+* Fedora 18
+* Debian Wheezy
+* Linux Mint Debian Edition
 
 **NOTE:** This plugin requires `libvirt-dev` package to be installed (Ubuntu 13.04) or `libvirt-devel` (openSUSE)
 
